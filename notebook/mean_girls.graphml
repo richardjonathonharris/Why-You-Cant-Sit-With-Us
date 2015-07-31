@@ -1,0 +1,540 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="name" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="56">
+      <data key="d0">Party Crasher</data>
+    </node>
+    <node id="77">
+      <data key="d0">Boy 2</data>
+    </node>
+    <node id="54">
+      <data key="d0">Shopkeeper at 153</data>
+    </node>
+    <node id="42">
+      <data key="d0">African-American Girl</data>
+    </node>
+    <node id="48">
+      <data key="d0">Taylor Zimmerman</data>
+    </node>
+    <node id="43">
+      <data key="d0">Jock</data>
+    </node>
+    <node id="60">
+      <data key="d0">Student</data>
+    </node>
+    <node id="61">
+      <data key="d0">Dawn Schweitzer</data>
+    </node>
+    <node id="62">
+      <data key="d0">Varsity Girl</data>
+    </node>
+    <node id="63">
+      <data key="d0">Scared Boy</data>
+    </node>
+    <node id="64">
+      <data key="d0">Girl 2</data>
+    </node>
+    <node id="49">
+      <data key="d0">Glen Coco</data>
+    </node>
+    <node id="66">
+      <data key="d0">Girl 4</data>
+    </node>
+    <node id="67">
+      <data key="d0">Girl 5</data>
+    </node>
+    <node id="68">
+      <data key="d0">Girl 6</data>
+    </node>
+    <node id="69">
+      <data key="d0">Girl 7</data>
+    </node>
+    <node id="80">
+      <data key="d0">Jock</data>
+    </node>
+    <node id="52">
+      <data key="d0">Shane Oman</data>
+    </node>
+    <node id="53">
+      <data key="d0">Secretary</data>
+    </node>
+    <node id="24">
+      <data key="d0">Emma Gerber</data>
+    </node>
+    <node id="25">
+      <data key="d0">Girl</data>
+    </node>
+    <node id="26">
+      <data key="d0">Mathlete Tim Pak</data>
+    </node>
+    <node id="27">
+      <data key="d0">Amber D'Alessio</data>
+    </node>
+    <node id="20">
+      <data key="d0">Lunchroom Girl</data>
+    </node>
+    <node id="21">
+      <data key="d0">Damian</data>
+    </node>
+    <node id="22">
+      <data key="d0">Huge Guy</data>
+    </node>
+    <node id="23">
+      <data key="d0">Coach Carr</data>
+    </node>
+    <node id="46">
+      <data key="d0">Lea Edwards</data>
+    </node>
+    <node id="47">
+      <data key="d0">Candy Cane Seller</data>
+    </node>
+    <node id="44">
+      <data key="d0">Seth (Karen's Cousin)</data>
+    </node>
+    <node id="45">
+      <data key="d0">Jock (Spartan)</data>
+    </node>
+    <node id="28">
+      <data key="d0">Short Girl</data>
+    </node>
+    <node id="29">
+      <data key="d0">Jessica Lopez</data>
+    </node>
+    <node id="40">
+      <data key="d0">Mrs. George</data>
+    </node>
+    <node id="41">
+      <data key="d0">Mr. George</data>
+    </node>
+    <node id="1">
+      <data key="d0">Cady's Mom</data>
+    </node>
+    <node id="0">
+      <data key="d0">Cady's Dad</data>
+    </node>
+    <node id="3">
+      <data key="d0">Homeschooled Boy 1</data>
+    </node>
+    <node id="2">
+      <data key="d0">Cady Heron</data>
+    </node>
+    <node id="5">
+      <data key="d0">Homeschooled Boy 3</data>
+    </node>
+    <node id="4">
+      <data key="d0">Homeschooled Boy 2</data>
+    </node>
+    <node id="7">
+      <data key="d0">Janis Ian</data>
+    </node>
+    <node id="6">
+      <data key="d0">Kristen Hadley</data>
+    </node>
+    <node id="9">
+      <data key="d0">Ms. Norbury</data>
+    </node>
+    <node id="8">
+      <data key="d0">Kristen's Boyfriend</data>
+    </node>
+    <node id="78">
+      <data key="d0">Host of Mathletes</data>
+    </node>
+    <node id="51">
+      <data key="d0">Girl 1</data>
+    </node>
+    <node id="39">
+      <data key="d0">Kylie George</data>
+    </node>
+    <node id="65">
+      <data key="d0">Girl 3</data>
+    </node>
+    <node id="76">
+      <data key="d0">Boy 1</data>
+    </node>
+    <node id="75">
+      <data key="d0">Girl 11</data>
+    </node>
+    <node id="38">
+      <data key="d0">Taylor Wedell</data>
+    </node>
+    <node id="73">
+      <data key="d0">Girl who doesn't go here</data>
+    </node>
+    <node id="72">
+      <data key="d0">Asian Girl</data>
+    </node>
+    <node id="71">
+      <data key="d0">Girl 9</data>
+    </node>
+    <node id="70">
+      <data key="d0">Girl 8</data>
+    </node>
+    <node id="59">
+      <data key="d0">Making Out Couple</data>
+    </node>
+    <node id="79">
+      <data key="d0">Marymount Mathletes</data>
+    </node>
+    <node id="58">
+      <data key="d0">Vase Throwers</data>
+    </node>
+    <node id="11">
+      <data key="d0">Michigan Girl</data>
+    </node>
+    <node id="10">
+      <data key="d0">Mr. Duvall</data>
+    </node>
+    <node id="13">
+      <data key="d0">English Teacher</data>
+    </node>
+    <node id="12">
+      <data key="d0">Chemistry Teacher</data>
+    </node>
+    <node id="15">
+      <data key="d0">Music Teacher</data>
+    </node>
+    <node id="14">
+      <data key="d0">History Teacher</data>
+    </node>
+    <node id="17">
+      <data key="d0">Lunchroom Boy</data>
+    </node>
+    <node id="16">
+      <data key="d0">German Teacher</data>
+    </node>
+    <node id="19">
+      <data key="d0">Lunchroom Boy 2</data>
+    </node>
+    <node id="18">
+      <data key="d0">Jason</data>
+    </node>
+    <node id="31">
+      <data key="d0">Regina George</data>
+    </node>
+    <node id="30">
+      <data key="d0">Bethany Byrd</data>
+    </node>
+    <node id="37">
+      <data key="d0">Taylor Wedell's Mom</data>
+    </node>
+    <node id="36">
+      <data key="d0">Kevin Gnapoor</data>
+    </node>
+    <node id="35">
+      <data key="d0">Nfume</data>
+    </node>
+    <node id="34">
+      <data key="d0">Aaron Samuels</data>
+    </node>
+    <node id="33">
+      <data key="d0">Karen Smith</data>
+    </node>
+    <node id="55">
+      <data key="d0">Fat Girl</data>
+    </node>
+    <node id="74">
+      <data key="d0">Girl 10</data>
+    </node>
+    <node id="32">
+      <data key="d0">Gretchen Weiners</data>
+    </node>
+    <node id="81">
+      <data key="d0">Kraft (female Mathlete)</data>
+    </node>
+    <node id="57">
+      <data key="d0">Deek</data>
+    </node>
+    <node id="50">
+      <data key="d0">Trang Pak</data>
+    </node>
+    <edge source="56" target="57">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="56" target="2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="77" target="10">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="54" target="33">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="42" target="2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="48" target="21">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="60" target="23">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="61" target="62">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="61" target="71">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="62" target="71">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="63" target="80">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="64" target="65">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="49" target="21">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="66" target="67">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="68" target="69">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="52" target="31">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="52" target="40">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="53" target="10">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="20" target="2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="21" target="10">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="21" target="13">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="21" target="32">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="21" target="28">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="21" target="50">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="21" target="34">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="21" target="2">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="21" target="73">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="21" target="7">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="21" target="9">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="22" target="7">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="23" target="10">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="23" target="2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="23" target="34">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="46" target="31">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="47" target="2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="44" target="33">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="45" target="2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="28" target="29">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="40" target="32">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="40" target="31">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="40" target="2">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="40" target="41">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1" target="0">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="1" target="2">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="1" target="10">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="0" target="2">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="2" target="7">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="2" target="6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2" target="9">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="2" target="78">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="2" target="10">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="2" target="12">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="2" target="59">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2" target="58">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2" target="33">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="2" target="18">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="2" target="31">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="2" target="36">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="2" target="35">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2" target="34">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="2" target="32">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="7" target="36">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="7" target="34">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="7" target="9">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="6" target="8">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="9" target="11">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="9" target="10">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="9" target="50">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="9" target="36">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="9" target="73">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="9" target="72">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="78" target="81">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="78" target="36">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="78" target="79">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="39" target="31">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="76" target="10">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="75" target="74">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="38" target="37">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="72" target="50">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="79" target="36">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="10" target="33">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="10" target="32">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="10" target="31">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="10" target="30">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="10" target="36">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="10" target="34">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="17" target="19">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="17" target="18">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="18" target="32">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="18" target="31">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="31" target="55">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="31" target="37">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="31" target="34">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="31" target="32">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="31" target="33">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="33" target="32">
+      <data key="d1">23</data>
+    </edge>
+  </graph>
+</graphml>
